@@ -1,0 +1,28 @@
+.left {
+  background-color: #052a5f;
+  header {
+    height: 50px;
+    line-height: 50px;
+    padding-left: 15px;
+    background-color: #c11902;
+    color: #fff;
+    font-size: 16px;
+    font-weight: 600;
+  }
+  aside {
+    ul {
+      li {
+        a {
+          display: block;
+          height: 50px;
+          line-height: 50px;
+          color: #fff;
+          padding-left: 15px;
+          &:hover, &.active {
+            background-color: #1b3d6d;
+          }
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,42 @@
+.right {
+  header {
+    display: flex;
+    height: 50px;
+    line-height: 50px;
+    background-color: #052a5f;
+    .menu {
+      padding: 0 20px;
+      text-align: center;
+      color: #fff;
+    }
+    ul {
+      display: flex;
+      li {
+        a {
+          padding: 0 20px;
+          font-weight: 500;
+          display: block;
+          color: #fff;
+          &:hover, &.active {
+            background-color: #fff;
+            color: #052a5f;
+          }
+        }
+      }
+    }
+  }
+  .user {
+    color: #fff;
+    flex: 1;
+    padding-right: 20px;
+    text-align: right;
+  }
+  .container {
+    margin: 20px;
+    .content {
+      margin-top: 20px;
+      padding: 20px;
+      background-color: #fff;
+    }
+  }
+}

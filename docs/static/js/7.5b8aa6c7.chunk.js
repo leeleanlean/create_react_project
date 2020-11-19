@@ -1,2 +1,2 @@
 (window.webpackJsonpvita=window.webpackJsonpvita||[]).push([[7],{47:function(t,e,n){"use strict";n.r(e),n.d(e,"default",function(){return l});var a=n(6),c=n(9),r=n(11),i=n(10),o=n(12),u=n(0),s=n.n(u),l=function(t){function e(){return Object(a.a)(this,e),Object(r.a)(this,Object(i.a)(e).apply(this,arguments))}return Object(o.a)(e,t),Object(c.a)(e,[{key:"render",value:function(){return s.a.createElement("div",{className:"Contact"},s.a.createElement("h3",null,"\u8054\u7cfb\u6211\u4eec"),s.a.createElement("div",{className:"content"},"\u8054\u7cfb\u6211\u4eec - content"))}}]),e}(s.a.Component)}}]);
-//# sourceMappingURL=7.06ee09ac.chunk.js.map
+//# sourceMappingURL=7.5b8aa6c7.chunk.js.map

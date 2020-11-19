@@ -1,8 +1,8 @@
 ## 在线预览
 
-[在线预览](https://leeleanlean.github.io/react-admin-template/index.html)
+[在线预览](https://leeleanlean.github.io/create_react_project/)
 
-<!-- # React构建项目笔记 （React、react-router、Redux）
+# React构建项目笔记 （React、react-router、Redux）
 
 - 笔记目录
 
@@ -736,4 +736,4 @@ export default function request(url, options) {
       console.log(err)
     })
 }
-``` -->
+```
